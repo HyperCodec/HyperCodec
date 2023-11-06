@@ -5,7 +5,8 @@
 - DevOps enthusiast
 - Rustacean 🦀
 ### Major projects/orgs
-- [Tungsten Client](https://github.com/tungsten-client) - I've done work everywhere.
+- ~~[Tungsten Client](https://github.com/tungsten-client) - I've done work everywhere.~~ (dead project)
+- [BlizzardMC](https://blizzardmc.xyz) - Config and custom plugins.
 
 ### Links
 - [my epic discord server](https://discord.gg/w8NF5aSGnm)
