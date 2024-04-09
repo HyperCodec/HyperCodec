@@ -4,7 +4,7 @@
 
 - American programmer
 - 16 y/o
-- Learning fullstack dev (py, java, rust, etc; mainly backend & ui/ux so far)
+- Learning developer (py, java, rust, go, etc; mainly backend, ai, and random frameworks so far)
 - DevOps enthusiast
 - Rustacean 🦀
 
