@@ -4,7 +4,7 @@
 
 - American programmer
 - 16 y/o
-- Learning self-taught developer (py, java, rust, go, etc; mainly backend, ai, and random frameworks so far)
+- Learning self-taught developer (py, java, rust, go, etc; mainly backend, ai, and random libraries so far)
 - DevOps enthusiast
 - Rustacean 🦀
 
