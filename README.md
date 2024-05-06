@@ -1,6 +1,6 @@
 # About me
 
-[![](https://komarev.com/ghpvc/?username=Inflectrix&style=for-the-badge)](https://github.com/Inflectrix/)
+[![](https://komarev.com/ghpvc/?username=HyperCodec&style=for-the-badge)](https://github.com/HyperCodec/)
 
 - American programmer
 - 16 y/o
