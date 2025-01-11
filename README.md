@@ -7,7 +7,7 @@
 - Self-taught developer (py, java, rust, go, zig, etc; mainly opensource, backend, and ai so far)
 - DevOps enthusiast
 - Rustacean 🦀
-- AoC completionist (2023: Rust, 2024: WIP)
+- AoC completionist (2023: Rust, 2024: Go)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyperCodec&theme=transparent&hide_border=true&layout=compact&langs_count=10&hide=css" height="192px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HyperCodec&hide_border=true&card_width=338&theme=transparent"></p>
