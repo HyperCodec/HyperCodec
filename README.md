@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=HyperCodec&style=for-the-badge)](https://github.com/HyperCodec/)
 
 - American programmer
-- 17 y/o
+- 18 y/o
 - Self-taught developer (py, java, rust, go, zig, etc; mainly opensource, backend, and ai so far)
 - DevOps enthusiast
 - Rustacean 🦀
