@@ -4,7 +4,7 @@
 
 - American programmer
 - 18 y/o
-- Self-taught developer (py, java, rust, go, zig, etc; mainly opensource, backend, and ai so far)
+- Self-taught developer (py, java, rust, go, zig, etc; mainly random opensource projects, backend, and ai so far)
 - DevOps enthusiast
 - Rustacean 🦀
 - AoC completionist (2023: Rust, 2024: Go, 2025: Zig)
